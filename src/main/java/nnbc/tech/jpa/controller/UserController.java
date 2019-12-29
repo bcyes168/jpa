@@ -1,7 +1,7 @@
-package com.example.controller;
+package nnbc.tech.jpa.controller;
 
-import com.example.entity.User;
-import com.example.repository.UserRepository;
+import nnbc.tech.jpa.entity.User;
+import nnbc.tech.jpa.repository.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 

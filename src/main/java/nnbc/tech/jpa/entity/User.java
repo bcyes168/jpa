@@ -1,4 +1,4 @@
-package com.example.entity;
+package nnbc.tech.jpa.entity;
 
 import javax.persistence.*;
 import java.util.Date;
